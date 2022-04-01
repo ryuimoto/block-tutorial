@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/BallController.cs" />
+    <Compile Include="Assets/Scripts/PaddleController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
