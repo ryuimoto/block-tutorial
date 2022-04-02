@@ -57,6 +57,7 @@
     <Compile Include="Assets/Scripts/BlockController.cs" />
     <Compile Include="Assets/Scripts/BallController.cs" />
     <Compile Include="Assets/Scripts/BottomWallController.cs" />
+    <Compile Include="Assets/Scripts/HitPlaySound.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
