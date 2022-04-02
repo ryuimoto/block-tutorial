@@ -53,9 +53,10 @@
     <UnityVersion>2020.3.27f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/BallController.cs" />
     <Compile Include="Assets/Scripts/PaddleController.cs" />
     <Compile Include="Assets/Scripts/BlockController.cs" />
+    <Compile Include="Assets/Scripts/BallController.cs" />
+    <Compile Include="Assets/Scripts/BottomWallController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
